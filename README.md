@@ -52,3 +52,9 @@ npm start
 - [bolt.new](https://bolt.new) — AI web app builder
 - [Tailwind CSS](https://tailwindcss.com)
 - [React](https://react.dev)
+
+## AI Enhancements (Coming Soon)
+- 🤖 **AI Chatbot** — Claude-powered assistant answers student questions 24/7
+- 📊 **Smart Scheduling** — Suggests best class times based on demand
+- 🔔 **Churn Detection** — Flags students who haven't booked in 2+ weeks
+- ✨ **Class Recommendations** — Personalized suggestions based on history
